@@ -30,13 +30,13 @@
         height: 250px;
     }
 
-    img {
+    .beef img {
         cursor: pointer;
         width: 256px;
         transition: 1s;
     }
 
-    img:hover {
+    .beef img:hover {
         width: 356px;
     }
 
